@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jirpr\\skola\\PVA\\hello_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91735184-0DFB-4791-B8BA-CDE14D7E36D7}|hello_world\\hello_world.csproj|c:\\users\\jirpr\\skola\\pva\\hello_world\\hello_world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91735184-0DFB-4791-B8BA-CDE14D7E36D7}|hello_world\\hello_world.csproj|solutionrelative:hello_world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jirpr\\skola\\PVA\\hello_world\\hello_world\\Program.cs",
+              "RelativeDocumentMoniker": "hello_world\\Program.cs",
+              "ToolTip": "C:\\Users\\jirpr\\skola\\PVA\\hello_world\\hello_world\\Program.cs",
+              "RelativeToolTip": "hello_world\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T20:33:24.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

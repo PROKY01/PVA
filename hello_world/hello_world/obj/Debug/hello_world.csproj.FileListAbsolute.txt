@@ -1,0 +1,7 @@
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\bin\Debug\hello_world.exe.config
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\bin\Debug\hello_world.exe
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\bin\Debug\hello_world.pdb
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\obj\Debug\hello_world.csproj.AssemblyReference.cache
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\obj\Debug\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\obj\Debug\hello_world.exe
+C:\Users\jirpr\skola\PVA\hello_world\hello_world\obj\Debug\hello_world.pdb
