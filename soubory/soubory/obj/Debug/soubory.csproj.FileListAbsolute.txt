@@ -1,0 +1,8 @@
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\bin\Debug\soubory.exe.config
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\bin\Debug\soubory.exe
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\bin\Debug\soubory.pdb
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\obj\Debug\soubory.csproj.AssemblyReference.cache
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\obj\Debug\soubory.csproj.CoreCompileInputs.cache
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\obj\Debug\soubory.exe
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\obj\Debug\soubory.pdb
+C:\Users\L20240054\Desktop\PVA\soubory\soubory\obj\Debug\soubory.exe.config
