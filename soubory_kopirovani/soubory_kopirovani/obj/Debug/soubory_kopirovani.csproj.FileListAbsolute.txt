@@ -1,0 +1,7 @@
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\obj\Debug\soubory_kopirovani.csproj.AssemblyReference.cache
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\obj\Debug\soubory_kopirovani.csproj.CoreCompileInputs.cache
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\bin\Debug\soubory_kopirovani.exe.config
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\bin\Debug\soubory_kopirovani.exe
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\bin\Debug\soubory_kopirovani.pdb
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\obj\Debug\soubory_kopirovani.exe
+C:\Users\L20240054\Desktop\PVA\soubory_kopirovani\soubory_kopirovani\obj\Debug\soubory_kopirovani.pdb
