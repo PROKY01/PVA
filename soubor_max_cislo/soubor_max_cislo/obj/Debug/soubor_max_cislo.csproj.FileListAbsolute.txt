@@ -1,0 +1,7 @@
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\bin\Debug\soubor_max_cislo.exe.config
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\bin\Debug\soubor_max_cislo.exe
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\bin\Debug\soubor_max_cislo.pdb
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\obj\Debug\soubor_max_cislo.csproj.AssemblyReference.cache
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\obj\Debug\soubor_max_cislo.csproj.CoreCompileInputs.cache
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\obj\Debug\soubor_max_cislo.exe
+C:\Users\L20240054\Desktop\PVA\soubor_max_cislo\soubor_max_cislo\obj\Debug\soubor_max_cislo.pdb
