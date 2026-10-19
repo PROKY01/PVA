@@ -1,0 +1,7 @@
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\bin\Debug\desetina_cisla.exe.config
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\bin\Debug\desetina_cisla.exe
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\bin\Debug\desetina_cisla.pdb
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\obj\Debug\desetina_cisla.csproj.AssemblyReference.cache
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\obj\Debug\desetina_cisla.csproj.CoreCompileInputs.cache
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\obj\Debug\desetina_cisla.exe
+C:\Users\L20240054\Desktop\PVA\desetina_cisla\desetina_cisla\obj\Debug\desetina_cisla.pdb

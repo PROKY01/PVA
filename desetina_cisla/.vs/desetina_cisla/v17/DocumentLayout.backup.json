@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L20240054\\Desktop\\PVA\\desetina_cisla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126BDB9B-56B1-4370-BAE4-0FF68E5AC410}|desetina_cisla\\desetina_cisla.csproj|c:\\users\\l20240054\\desktop\\pva\\desetina_cisla\\desetina_cisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126BDB9B-56B1-4370-BAE4-0FF68E5AC410}|desetina_cisla\\desetina_cisla.csproj|solutionrelative:desetina_cisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\L20240054\\Desktop\\PVA\\desetina_cisla\\desetina_cisla\\Program.cs",
+              "RelativeDocumentMoniker": "desetina_cisla\\Program.cs",
+              "ToolTip": "C:\\Users\\L20240054\\Desktop\\PVA\\desetina_cisla\\desetina_cisla\\Program.cs",
+              "RelativeToolTip": "desetina_cisla\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T06:30:35.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
