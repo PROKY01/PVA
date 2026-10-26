@@ -1,0 +1,8 @@
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\bin\Debug\text_stredniky.exe.config
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\bin\Debug\text_stredniky.exe
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\bin\Debug\text_stredniky.pdb
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\obj\Debug\text_stredniky.csproj.AssemblyReference.cache
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\obj\Debug\text_stredniky.csproj.CoreCompileInputs.cache
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\obj\Debug\text_stredniky.exe
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\obj\Debug\text_stredniky.pdb
+C:\Users\L20240054\Desktop\PVA\text_stredniky\text_stredniky\obj\Debug\text_stredniky.exe.config
