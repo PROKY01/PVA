@@ -1,0 +1,8 @@
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\bin\Debug\vyhledavani.exe.config
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\bin\Debug\vyhledavani.exe
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\bin\Debug\vyhledavani.pdb
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\obj\Debug\vyhledavani.csproj.AssemblyReference.cache
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\obj\Debug\vyhledavani.csproj.CoreCompileInputs.cache
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\obj\Debug\vyhledavani.exe
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\obj\Debug\vyhledavani.pdb
+C:\Users\L20240054\Desktop\PVA\vyhledavani\vyhledavani\obj\Debug\vyhledavani.exe.config
