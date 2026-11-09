@@ -18,7 +18,7 @@ namespace test1
             int pocetRadku = 0;
             int pocetLichychRadku = 0;
             int pomocnaKPrumeru = 0;
-            int prumer = 0;
+            double prumer = 0;
             int mincisloPocet = 0;
             int pocetNizsichCisel = 0;
             if (File.Exists(cestaKSouboru))
@@ -44,7 +44,7 @@ namespace test1
                         
                     }
                     sr.Close();
-                    prumer = pomocnaKPrumeru / pocetLichychRadku;
+                    prumer = (double)pomocnaKPrumeru / pocetLichychRadku;
                     Console.WriteLine("Nejmenší číslo v souboru je: " + minCislo);
                     Console.WriteLine(pocetRadku);
                     Console.WriteLine(pocetLichychRadku);
